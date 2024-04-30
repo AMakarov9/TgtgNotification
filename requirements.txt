@@ -1,5 +1,4 @@
 logging.py
-signal.py
 requests.py
 pytz.py
 time.py
