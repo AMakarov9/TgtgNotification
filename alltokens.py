@@ -1,8 +1,8 @@
-supabase_url = "https://ylgtoadnbwboarenhfwj.supabase.co"
-supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsZ3RvYWRuYndib2FyZW5oZndqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTIyNTg0OTksImV4cCI6MjAyNzgzNDQ5OX0.RFNKgeJstQEbnd-6yZOwzDTpei0Zl7BYWxZQPAg6NxI"
-BOT_TOKEN = '6791600330:AAFQrAxzt6mpcaSdSokVM_W_ezhBko2iMLQ'
-ACCOUNT_EMAIL = 'gran.shenvari@hotmail.com'
-access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTE3MTQxMDYsImlhdCI6MTcxMTU0MTMwNiwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6IjRrTmY5Wi00UUttNzlfNUVRVW9SUlE6MDoxIiwic3ViIjoiNDIxMzEwNzYifQ.SsIzGQ7oGCwP6c5KutbIKMBq-M-5wx3od03U-FVZqYs"
-refresh_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDMwNzczMDYsImlhdCI6MTcxMTU0MTMwNiwiaXNzIjoidGd0Z19zb3RlcmlhIiwidCI6IkhSQ3dpYVU5VGRhOUtVMk5MTEl0TXc6MDowIiwic3ViIjoiNDIxMzEwNzYifQ.MpB3aXEMaCLADSDO5UdhzeZauf24fZDU8GApskGKgjU"
-user_id = "42131076"
-cookie = "datadome=j_XiOF0AiHLzbjGrYX_ZJsqF7faEvLK8vK9_fAoaA44nICgbL_Z~_a7Ep6lByCMX5iHc3clSyCh0XfyTgloqit5Dgved_db45~TAtYc0tqTm0MVJ4vZ~ekjwWGpEVzym; Max-Age=5184000; Domain=.apptoogoodtogo.com; Path=/; Secure; SameSite=Lax"
+supabase_url = ""
+supabase_key = ""
+BOT_TOKEN = ""
+ACCOUNT_EMAIL = ""
+access_token = ""
+refresh_token = ""
+user_id = ""
+cookie = ""
