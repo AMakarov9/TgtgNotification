@@ -1,0 +1,4 @@
+pytz==2024.1
+Requests==2.31.0
+supabase==2.4.3
+tgtg==0.17.0
